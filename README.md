@@ -1,2 +1,2 @@
 # test
-how to make a repo
+This is a repo on how to make a repo
